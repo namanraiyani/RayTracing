@@ -1,3 +1,3 @@
 # RayTracing
 
-![image](https://github.com/user-attachments/assets/50618dba-75b1-444a-a2ba-659fa6beda66)
+https://github.com/user-attachments/assets/b8170586-1f65-472b-9006-39b71e572840
